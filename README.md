@@ -1,6 +1,6 @@
-# untitled1
+# Campus Assist
 
-A new Flutter project.
+One Stop solution for All college needs.
 
 ## Getting Started
 
